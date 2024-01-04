@@ -11,7 +11,7 @@
 <div>
   <a href="https://github.com/avcsilva">
   <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api?username=avcsilva&hide=prs&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&title_color=39ff14&text_color=ffffff&icon_color=39ff14"/>
-  <img width="42%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avcsilva&layout=compact&langs_count=16&theme=chartreuse-dark&title_color=39ff14"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avcsilva&layout=compact&langs_count=16&theme=chartreuse-dark&title_color=39ff14"/>
 </div> 
 
 
